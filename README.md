@@ -1,6 +1,5 @@
 <h1 align=left>
-<img src="![image](https://github.com/user-attachments/assets/451459b1-9210-4cff-849d-9933582205e7)
-"width="200" height="500" />
+<img src="https://github.com/user-attachments/assets/0d35fc9a-9db1-4ed4-a636-5781ca46d455"width="200" height="500" />
 <img src="https://i.postimg.cc/jSR6XGYL/IMG-20250303-WA0011.jpg" width="200" height="500"/>
 <img src="https://i.postimg.cc/3J5FykLj/IMG-20250303-WA0012.jpg" width="200" height="500"/>
 <img src="https://i.postimg.cc/yYmX075M/IMG-20250303-WA0013.jpg" width="200" height="500"/>
